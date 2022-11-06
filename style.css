@@ -1,0 +1,16 @@
+ body{
+    text-align: center;
+
+ }
+ #Apps{
+    padding: 20px;
+    background:linear-gradient(rgb(90, 22, 90) 50%, rgb(114, 79, 169) 80%);
+ }
+ #Games{
+    padding: 20px;
+    background:linear-gradient(rgb(17, 129, 176) 50%, rgb(64, 22, 132) 80%);
+ }
+ #Chatbot{
+    padding: 20px;
+    background:linear-gradient(rgb(136, 255, 8) 50%, rgb(43, 109, 58) 80%);
+ }
